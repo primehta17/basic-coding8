@@ -17,6 +17,8 @@ function fib(num){
 }
 console.log(fib(5))
 
+
+////print all fibonnaci number
 let number=5;
 for(let i=0;i<number;i++){
     console.log(fib(i))
